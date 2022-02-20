@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(165, 166, 168);
+    
+}
+.first_p{
+    color:rgb(56, 12, 138);
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    font-weight:400;
+    font-style: italic;
+}
+.first_h2{
+    color:rgb(202, 46, 46);
+}
+.second_h2{
+    color:rgb(202, 46, 46);
+}
+.third_h2{
+    color:rgb(202, 46, 46);
+}
+.fourth_h2{
+    color:rgb(202, 46, 46);
+}
+.ol {
+    font-size: 16px;
+}

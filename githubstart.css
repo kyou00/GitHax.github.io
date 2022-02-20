@@ -1,0 +1,406 @@
+
+
+
+.container{
+    
+    position: relative;
+   
+    width:1670x;
+    height:8500px;
+
+
+}
+
+
+
+.head {
+    top: 0px;
+    left: 0px;
+    position: relative;
+    height: 70px;
+    width: 100%;
+    background-color: #111111;
+    z-index: 0;
+}
+
+.navbar {
+    
+    display: inline-block;
+    position: relative;
+    height: 50%;
+    width: auto;
+    float: right;
+    
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+
+    color: white;
+    font-family: 'Aromatica';
+
+    font-size: 40px;
+    font-size: 3vw;
+}
+
+.navbar a:hover{
+    display: flex;
+    color: gold;
+    width: 100%;
+    text-decoration: none; 
+}
+
+a{
+    display: flex;
+    color: rgb(255, 255, 255);
+    width:100%;
+    text-decoration: none; 
+  }
+
+
+
+.background2{
+    background-size: cover;
+    position: absolute;
+    top:180px;
+    left:190px;
+    width: 1300px;
+    height: 8300px;
+    background: white;
+    background: rgba(255,255,255,10%);
+    border-radius: 25px;
+
+}
+
+
+
+
+.image{
+    background-image: url(git.png);
+    background-size: cover;
+    position: fixed;
+    top: 230px;
+    left:700px;
+    width: 300px;
+    height: 300px;
+}
+
+.title1{
+    position: absolute;
+    font-family: 'Aromatica';
+    top:180px;
+    left:490px;
+    color: white;
+    font-size:100px;
+}
+
+.title2{
+    position: absolute;
+    font-family: 'Aromatica';
+    top:400px;
+    left:300px;
+    color: white;
+    font-size:60px;
+}
+
+.first{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:550px;
+    left:230px;
+    color: white;
+    font-size:40px;
+
+}
+
+.image2{
+    
+    position: absolute;
+    top: 550px;
+    left:1000px;
+    
+    
+}
+
+.image3{
+   
+    position: absolute;
+    top: 1050px;
+    left:300px;
+    
+}
+
+.second{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:1100px;
+    left:900px;
+    color: white;
+    font-size:40px;
+
+}
+
+.image4{
+    
+    position: absolute;
+    top: 1500px;
+    left:900px;
+    
+}
+
+.third{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:1500px;
+    left:230px;
+    color: white;
+    font-size:40px;
+
+}
+
+.image5{
+    
+    position: absolute;
+    top: 2000px;
+    left:230px;
+    
+}
+
+.fourth{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:2000px;
+    left:900px;
+    color: white;
+    font-size:40px;
+
+}
+
+.fifth{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:2350px;
+    left:350px;
+    color: white;
+    font-size:40px;
+
+}
+
+.image6{
+   
+    position: absolute;
+    top: 2900px;
+    left:500px;
+   
+}
+.image7{
+    
+    position: absolute;
+    top: 2550px;
+    left:500px;
+    
+}
+
+.sixth{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:3550px;
+    left:350px;
+    color: white;
+    font-size:40px;
+
+}
+
+.image8{
+    
+    position: absolute;
+    top: 4050px;
+    left:500px;
+    
+}
+
+.image9{
+    
+    position: absolute;
+    top: 3700px;
+    left:450px;
+    
+}
+
+.title3{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:4600px;
+    left:500px;
+    color: white;
+    font-size:100px;
+
+}
+
+.step1{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:4900px;
+    left:230px;
+    color: white;
+    font-size:40px;
+
+}
+
+.desc1{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:4900px;
+    left:600px;
+    color: white;
+    font-size:40px;
+
+}
+
+.image10{
+    
+    position: absolute;
+    top: 5000px;
+    left:450px;
+    
+}
+
+.step2{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:5350px;
+    left:230px;
+    color: white;
+    font-size:40px;
+
+}
+
+.desc2{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:5350px;
+    left:500px;
+    color: white;
+    font-size:40px;
+
+}
+
+.image11{
+   
+    position: absolute;
+    top: 5550px;
+    left:450px;
+    
+}
+
+.step3{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:5850px;
+    left:230px;
+    color: white;
+    font-size:40px;
+
+}
+.desc3{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:5950px;
+    left:550px;
+    color: white;
+    font-size:40px;
+
+}
+
+.image12{
+
+    position: absolute;
+    top: 6050px;
+    left:480px;
+    
+}
+
+.step4{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:6350px;
+    left:230px;
+    color: white;
+    font-size:40px;
+
+}
+
+.desc4{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:6350px;
+    left:700px;
+    color: white;
+    font-size:40px;
+
+}
+
+.image13{
+   
+    position: absolute;
+    top: 6500px;
+    left:300px;
+    
+}
+
+.step5{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:6900px;
+    left:230px;
+    color: white;
+    font-size:40px;
+
+}
+
+.desc5{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:7000px;
+    left:400px;
+    color: white;
+    font-size:40px;
+
+}
+
+.image14{
+    
+    position: absolute;
+    top: 7200px;
+    left:300px;
+    
+}
+
+.step6{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:7600px;
+    left:230px;
+    color: white;
+    font-size:40px;
+
+}
+
+.desc6{
+    font-family: 'Aromatica';
+    position: absolute;
+    top:7700px;
+    left:400px;
+    color: white;
+    font-size:40px;
+
+}
+
+.image15{
+    
+    position: absolute;
+    top: 7800px;
+    left:300px;
+   
+}
+
+
