@@ -4,10 +4,11 @@ body {
     height: 4000px;
 }
 
+
 .image {
     position: fixed;
-    opacity: 25%;
-    left: 700px;
+    opacity: 50%;
+    left: 36%;
     top: 325px;
 }
 
